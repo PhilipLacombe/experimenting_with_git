@@ -3,7 +3,7 @@ def print_some_numbers():
     print(2)
     print(3)
     print(4)
-    print(5)
+    print("V")
     print(6)
     print(7)
     print(8)
