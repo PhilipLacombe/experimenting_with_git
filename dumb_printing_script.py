@@ -5,9 +5,9 @@ def print_some_numbers():
     print(4)
     print("V")
     print(6)
-    print(7)
+    print("VII")
     print(8)
-    print(9)
+    print("IX")
     print(10)
 
 
